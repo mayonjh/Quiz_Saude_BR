@@ -1,0 +1,9 @@
+Tive que refazer todo ele com algumas mudanças.
+O arquivo .txt foi retirado
+ainda não sei implementar com árvore com arquivo .txt
+dedicação ao python café e alunos disponiveis a tirar dúvida.
+agradecimento ao professor pela paciência e dedicação.
+
+Abraços! 
+
+Mayron Freitas
